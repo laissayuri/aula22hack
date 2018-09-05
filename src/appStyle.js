@@ -31,20 +31,6 @@ const AppStyle = {
     timer: {
         color: cor,
         fontSize: "50pt"
-    },
-    botoesMaiores: {
-        cursor:"pointer",
-        height: 50,
-        width: 100,
-        border: `1px dotted ${cor}`,
-        borderRadius: 25
-    },
-    botoesMenores: {
-        cursor:"pointer",
-        borderRadius: "50%",
-        width: 50,
-        height: 50,
-        border: `1px dotted ${cor}`,
     }
       
 }
